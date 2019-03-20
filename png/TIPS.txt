@@ -1,0 +1,8 @@
+***************************************
+Tips when creating the png (a bit late but whatever)
+***************************************
+
+As you drawing your sprites you can save them as a .pixil file, to edit it latter, by clicking
+the download button on the left hand conner and choose "Save as .pixil". 
+
+:-)
