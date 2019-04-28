@@ -1,0 +1,85 @@
+# depslib dependency file v1.0
+1553809669 source:c:\users\dcart\onedrive\desktop\scatterplot sample\sample.cpp
+	<iostream>
+	"SDL_Plotter.h"
+
+1553905069 c:\users\dcart\onedrive\desktop\scatterplot sample\sdl_plotter.h
+	<SDL2/SDL.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1553970922 source:e:\scatterplot sample\sample.cpp
+	<iostream>
+	"SDL_Plotter.h"
+
+1553970998 e:\scatterplot sample\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1553970174 source:e:\scatterplot sample\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1553970922 source:c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\sample.cpp
+	<iostream>
+	"SDL_Plotter.h"
+
+1556489056 c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1556489056 source:c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
+1554004237 source:c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\frog.cpp
+
+1556486106 source:c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\main.cpp
+	<iostream>
+	"SDL_Plotter.h"
+	"general.h"
+	<string>
+
+1556488719 source:c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\general.cpp
+	"general.h"
+	<fstream>
+
+1556489009 c:\users\dcart\onedrive\desktop\comp sci\scatterplot sample\general.h
+	"SDL_Plotter.h"
+
+1556490370 source:c:\users\dcart\onedrive\desktop\comp sci\frogger 1.0\general.cpp
+	"general.h"
+	<fstream>
+
+1556490370 c:\users\dcart\onedrive\desktop\comp sci\frogger 1.0\general.h
+	"SDL_Plotter.h"
+
+1556489056 c:\users\dcart\onedrive\desktop\comp sci\frogger 1.0\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1556490370 source:c:\users\dcart\onedrive\desktop\comp sci\frogger 1.0\main.cpp
+	<iostream>
+	"SDL_Plotter.h"
+	"general.h"
+	<string>
+
+1556489056 source:c:\users\dcart\onedrive\desktop\comp sci\frogger 1.0\sdl_plotter.cpp
+	"SDL_Plotter.h"
+
