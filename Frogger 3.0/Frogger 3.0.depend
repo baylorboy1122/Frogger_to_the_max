@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1556564495 source:c:\users\dcart\onedrive\desktop\comp sci\frogger 3.0\general.cpp
+	"general.h"
+	<fstream>
+
+1556564495 c:\users\dcart\onedrive\desktop\comp sci\frogger 3.0\general.h
+	"SDL_Plotter.h"
+
+1556675288 c:\users\dcart\onedrive\desktop\comp sci\frogger 3.0\sdl_plotter.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_mixer.h>
+	<string.h>
+	<iostream>
+	<string>
+	<string.h>
+	<map>
+
+1556564495 source:c:\users\dcart\onedrive\desktop\comp sci\frogger 3.0\main.cpp
+	<iostream>
+	"SDL_Plotter.h"
+	"general.h"
+	"Obstacles.h"
+	<string>
+
+1556564495 c:\users\dcart\onedrive\desktop\comp sci\frogger 3.0\obstacles.h
+	"SDL_Plotter.h"
+	"general.h"
+	<string>
+
+1556564495 source:c:\users\dcart\onedrive\desktop\comp sci\frogger 3.0\obstacles.cpp
+	"SDL_Plotter.h"
+	"Obstacles.h"
+
